@@ -3,7 +3,7 @@
 <channel>
 <title>Hiking Treks</title> <link>https://www.apple.com/itunes/podcasts/</link>
 <language>en-us</language>
-<copyright>© 2019 John Appleseed</copyright>
+<copyright>Â© 2019 John Appleseed</copyright>
 <itunes:author>The Sunset Explorers</itunes:author>
 <description> Love to get outdoors and discover nature's treasures? Hiking Treks is the show for you. We review hikes and excursions, review outdoor gear and interview a variety of naturalists and adventurers. Look for new episodes each week.
 </description>
@@ -29,8 +29,8 @@ href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>.]]>
 </description>
 <enclosure
 length="498537"
-type="audio/m4a"
-url="http://leccap.engin.umich.edu/leccap/feed/file/sample-rec-7d9gq34m/6921/4/1255007289-768-O-c13-6921-4.m4a"
+type="audio/wav"
+url="https://www2.cs.uic.edu/~i101/SoundFiles/BabyElephantWalk60.wav"
 />
 <guid>aae20190418</guid>
 <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
